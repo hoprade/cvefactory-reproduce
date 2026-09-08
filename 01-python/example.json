@@ -1,0 +1,9 @@
+{
+  "cve_id": "CVE-2025-1234",
+  "severity": "high",
+  "stages_completed": [
+    1,
+    2,
+    3
+  ]
+}
